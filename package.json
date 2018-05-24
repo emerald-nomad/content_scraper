@@ -1,0 +1,16 @@
+{
+  "name": "content_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "author": "Jalen Greene",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.1.2",
+    "csv-stringify": "^3.0.0"
+  }
+}
